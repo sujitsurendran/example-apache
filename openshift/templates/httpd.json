@@ -18,7 +18,7 @@
   "message": "The following service(s) have been created in your project: ${NAME}.",
   "labels": {
       "template": "exam-apache",
-      "app": "example-apache"
+      "app": "exam-apache"
   },
   "objects": [
     {
